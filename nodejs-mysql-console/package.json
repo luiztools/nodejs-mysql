@@ -1,14 +1,14 @@
 {
-  "name": "mysql-youtube",
+  "name": "nodejs-mysql-console",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mysql2": "^2.2.5"
+    "mysql2": "^3.4.2"
   }
 }

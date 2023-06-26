@@ -1,0 +1,23 @@
+{
+  "name": "crud-sequelize-mysql",
+  "version": "1.0.0",
+  "description": "Fontes do tutorial de CRUD com Node.js, Sequelize e MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiztools/crud-sequelize-mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luiztools/crud-sequelize-mysql/issues"
+  },
+  "homepage": "https://github.com/luiztools/crud-sequelize-mysql#readme",
+  "dependencies": {
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
+}
