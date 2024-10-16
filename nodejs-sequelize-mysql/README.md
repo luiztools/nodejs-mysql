@@ -14,9 +14,9 @@ Link do tutorial Parte 1 e 2: https://www.luiztools.com.br/post/tutorial-de-crud
 
 Link do tutorial de Migrations (parte 3): https://www.luiztools.com.br/post/tutorial-de-migrations-com-nodejs-e-sequelize/
 
-Meus cursos: https://www.luiztools.com.br/meus-cursos
+Conheça meus cursos: https://www.luiztools.com.br/meus-cursos
 
-Meus livros: https://www.luiztools.com.br/meus-livros
+Conheça meus livros: https://www.luiztools.com.br/meus-livros
 
 Minhas redes sociais: https://about.me/luiztools
 

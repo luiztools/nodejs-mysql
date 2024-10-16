@@ -13,9 +13,9 @@ Example tutorial for how to use Node.js + MySQL.
 
 Para o tutorial (inclui vídeo), acesse: https://www.luiztools.com.br/post/como-usar-nodejs-mysql/
 
-Para um curso completo: https://www.luiztools.com.br/curso-fullstack
+Conheça meus cursos: https://www.luiztools.com.br/meus-cursos
 
-Para um livro completo: https://www.luiztools.com.br/livro-node-mysql
+Conheça meus livros: https://www.luiztools.com.br/meus-livros
 
 Minhas redes sociais: https://about.me/luiztools
 

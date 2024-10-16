@@ -1,17 +1,19 @@
-# nodejs-passport-mysql
-A simple login example in Node.js web app with Passport and MySQL
+# nodejs-prisma-mysql
+Example of Node.js app with Prisma ORM using MySQL database.
 
 ## How to Run
 
 1. create the database and the table
 2. git clone
-3. cd nodejs-passport-mysql
+3. cd nodejs-prisma-mysql
 4. npm install
-5. npm start
+5. copy .env.example as .env
+6. fill .env variables
+7. npm start
 
 ## More
 
-Para o tutorial explicando passo a passo, visite: https://www.luiztools.com.br/post/autenticacao-em-node-js-com-passport-e-mysql/
+Para o tutorial (inclui vídeo), acesse: https://www.luiztools.com.br/post/tutorial-de-crud-com-typescript-prisma-e-sql
 
 Conheça meus cursos: https://www.luiztools.com.br/meus-cursos
 

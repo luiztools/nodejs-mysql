@@ -1,7 +1,7 @@
 # nodejs-mysql-webapi
 Tutorial de exemplo de criação de WebAPI com Node.js e MySQL.
 
-## Como Executar
+## How to Run
 
 1. create the database and the table
 2. git clone
@@ -13,9 +13,9 @@ Tutorial de exemplo de criação de WebAPI com Node.js e MySQL.
 
 Para o tutorial, acesse: https://www.luiztools.com.br/post/criando-uma-webapi-com-nodejs-e-mysql/
 
-Para um curso completo: https://www.luiztools.com.br/curso-fullstack
+Conheça meus cursos: https://www.luiztools.com.br/meus-cursos
 
-Para um livro completo: https://www.luiztools.com.br/livro-node-mysql
+Conheça meus livros: https://www.luiztools.com.br/meus-livros
 
 Minhas redes sociais: https://about.me/luiztools
 
