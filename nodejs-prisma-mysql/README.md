@@ -9,7 +9,8 @@ Example of Node.js app with Prisma ORM using MySQL database.
 4. npm install
 5. copy .env.example as .env
 6. fill .env variables
-7. npm start
+7. npx prisma generate
+8. npm start
 
 ## More
 

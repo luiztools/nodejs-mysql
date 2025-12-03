@@ -1,11 +1,8 @@
-import { PrismaClient } from '@prisma/client';
-const prisma = new PrismaClient();
+import { PrismaMariaDb } from '@prisma/adapter-mariadb';
+import { PrismaClient } from '../generated/prisma/client';
 
-async function connect() {
-    await prisma.$connect();
-}
-
-connect();
+const adapter = new PrismaMariaDb(`${process.env.DATABASE_URL}`);
+const prisma = new PrismaClient({ adapter });
 
 export function getClientes() {
     return prisma.clientes.findMany();
